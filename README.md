@@ -3,7 +3,8 @@
 **Hello, I am Harsh Yadav**
 ---
 ### 👦 About Me
-- 👨‍💻 I'm an MCA final year student at the International Institute of Professional Studies( Devi Ahilya Vishwavidhyalaya ).
+- 👨‍💻 About Me
+I'm a passionate Site Reliability Engineer with a strong background in DevOps practices, cloud infrastructure, and automation. I specialize in building and maintaining highly available, scalable systems that can handle millions of requests..
 - 📍 I live in Indore, Madhya Pradesh, India.
 - ---
 
