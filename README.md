@@ -1,22 +1,132 @@
-### Hi there 👋
+# Hi 👋 I'm Harsh Yadav
 
-**Hello, I am Harsh Yadav**
----
-### 👦 About Me
-- 👨‍💻 About Me
-I'm a passionate Site Reliability Engineer with a strong background in DevOps practices, cloud infrastructure, and automation. I specialize in building and maintaining highly available, scalable systems that can handle millions of requests..
-- 📍 I live in Indore, Madhya Pradesh, India.
-- ---
+<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,git,github,python,flask,django,linux,mysql,mongodb,&perline=12)](https://skillicons.dev)
----
+### 🚀 Site Reliability Engineer | DevOps Engineer | Kubernetes Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshyadav02&label=Profile%20views&color=0e75b6&style=flat" alt="harshyadav02" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshyadav02" alt="harshyadav02" /></a> </p>
+Building reliable, scalable, and cloud-native infrastructure on Kubernetes & AWS.
+
+<img src="https://komarev.com/ghpvc/?username=harshyadav02&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+</div>
+
 ---
 
+## 👨‍💻 About Me
 
-### 🔥 My Stats 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=harshyadav02&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=harshyadav02&theme=react" />
+I'm a **Site Reliability Engineer** passionate about designing, automating, and operating highly available cloud infrastructure.
 
+My work revolves around Kubernetes, AWS, Infrastructure as Code, observability, CI/CD, and automation. I enjoy solving production problems, optimizing cloud infrastructure, and building platforms that developers can rely on.
 
+* ☁️ Working with **AWS & Kubernetes (EKS)**
+* ⚙️ Automating infrastructure using **Terraform**
+* 🚀 Managing deployments with **Helm & ArgoCD**
+* 📈 Building observability using **Prometheus, Grafana, Loki & OpenTelemetry**
+* 🐳 Containerizing applications with **Docker**
+* 🔒 Working with IAM, networking, secrets management, and production infrastructure
+* 🌱 Currently exploring **GPU Autoscaling, Kubernetes Internals, and Platform Engineering**
+* 📍 Indore, Madhya Pradesh, India
+
+---
+
+# 🏆 Certifications
+
+* ✅ Certified Kubernetes Administrator (CKA)
+
+---
+
+# 🛠️ Tech Stack
+
+### Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws"/>
+</p>
+
+### DevOps & SRE
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,linux,bash,git,github,githubactions,prometheus,grafana"/>
+</p>
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+---
+
+# 🚀 What I'm Working On
+
+* Kubernetes Platform Engineering
+* Amazon EKS
+* Cluster Autoscaler
+* Helm Charts
+* GitOps with ArgoCD
+* Infrastructure Automation
+* Cloud Native Observability
+* Performance Optimization
+* Production Incident Management
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshyadav02&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harshyadav02&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshyadav02&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshyadav02&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/harshyadav02">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harshyadav02">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://harshyadav.me">
+  <img src="https://cdn.simpleicons.org/googlechrome" width="40" />
+</a>
+
+<a href="mailto:harshyadav5736@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+> **"Automate everything. Observe everything. Improve continuously."**
